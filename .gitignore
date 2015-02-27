@@ -1,4 +1,10 @@
 /backup/*
 *.pxm
-
 *.docx
+*.pdf
+*.wav
+*.pptx
+*.doc
+*.zip
+*.xls
+*.ppt
